@@ -1,0 +1,14 @@
+classifiers\classifier_1.pkl 104 iterations 0.8804 score (64, 128) layers relu activation 0.04857639262743816 loss 0.04813459534083961 best loss
+classifiers\classifier_2.pkl 79 iterations 0.8891 score (128,) layers relu activation 0.07734617344146293 loss 0.07631010923266014 best loss
+classifiers\classifier_3.pkl 77 iterations 0.8896 score (128, 64) layers relu activation 0.0608841193088076 loss 0.06001601613110184 best loss
+classifiers\classifier_4.pkl 61 iterations 0.8863 score (64, 128, 64) layers relu activation 0.09017810733753333 loss 0.08687854833239118 best loss
+classifiers\classifier_5.pkl 80 iterations 0.8739 score (32, 128, 32) layers relu activation 0.12455912843887885 loss 0.12455912843887885 best loss
+classifiers\classifier_6.pkl 97 iterations 0.8764 score (32, 128) layers relu activation 0.11296128534028878 loss 0.1114298682518946 best loss
+classifiers\classifier_7.pkl 82 iterations 0.8871 score (128, 32) layers relu activation 0.06602902888328864 loss 0.06552959005908601 best loss
+classifiers\classifier_8.pkl 56 iterations 0.8894 score (128, 256, 128) layers relu activation 0.059935483363510886 loss 0.056257027233503024 best loss
+classifiers\classifier_9.pkl 44 iterations 0.8999 score (512, 256, 128) layers relu activation 0.07545787022887951 loss 0.07018611199861384 best loss
+classifiers\classifier_10.pkl 55 iterations 0.8949 score (256, 256) layers relu activation 0.05432770777270688 loss 0.052626907472013984 best loss
+classifiers\classifier_11.pkl 98 iterations 0.8457 score (10,) layers relu activation 0.33004945209287234 loss 0.3290049471288841 best loss
+classifiers\classifier_12.pkl 82 iterations 0.8774 score (32,) layers relu activation 0.1993591349807545 loss 0.1976729378294575 best loss
+classifiers\classifier_13.pkl 80 iterations 0.8911 score (256,) layers relu activation 0.04636470401777832 loss 0.04598269797099313 best loss
+classifiers\classifier_14.pkl 78 iterations 0.8757 score (32, 32, 32) layers relu activation 0.16869384853652425 loss 0.16572088215831135 best loss
